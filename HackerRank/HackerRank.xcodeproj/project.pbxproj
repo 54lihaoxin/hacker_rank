@@ -24,6 +24,7 @@
 		460AE7332053679A005838B5 /* mini-max-sum.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "mini-max-sum.m"; sourceTree = "<group>"; };
 		460AE73520539731005838B5 /* birthday-cake-candles.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "birthday-cake-candles.m"; sourceTree = "<group>"; };
 		460AE7372053A2FC005838B5 /* time-conversion.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "time-conversion.m"; sourceTree = "<group>"; };
+		460AE73A2053AB95005838B5 /* coin-change.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "coin-change.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		460AE72720536489005838B5 /* HackerRank */ = {
 			isa = PBXGroup;
 			children = (
+				460AE7392053AB95005838B5 /* Dynamic Programming */,
 				460AE730205365AB005838B5 /* Warmup */,
 			);
 			path = HackerRank;
@@ -70,6 +72,14 @@
 				460AE7372053A2FC005838B5 /* time-conversion.m */,
 			);
 			path = Warmup;
+			sourceTree = "<group>";
+		};
+		460AE7392053AB95005838B5 /* Dynamic Programming */ = {
+			isa = PBXGroup;
+			children = (
+				460AE73A2053AB95005838B5 /* coin-change.m */,
+			);
+			path = "Dynamic Programming";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
