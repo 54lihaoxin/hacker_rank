@@ -22,6 +22,7 @@
 		460AE72520536489005838B5 /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		460AE731205365AB005838B5 /* solve-me-first.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "solve-me-first.m"; sourceTree = "<group>"; };
 		460AE7332053679A005838B5 /* mini-max-sum.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "mini-max-sum.m"; sourceTree = "<group>"; };
+		460AE73520539731005838B5 /* birthday-cake-candles.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "birthday-cake-candles.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 			children = (
 				460AE731205365AB005838B5 /* solve-me-first.m */,
 				460AE7332053679A005838B5 /* mini-max-sum.m */,
+				460AE73520539731005838B5 /* birthday-cake-candles.m */,
 			);
 			path = Warmup;
 			sourceTree = "<group>";
